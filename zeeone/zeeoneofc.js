@@ -771,7 +771,7 @@ ${numberik} ${prefix}upswteks
 ${numberik} ${prefix}upswimage
 ${numberik} ${prefix}upswvideo
 
- *Nsfw & Sfw*
+ *Nsfw & fw*
 ${numberik} ${prefix}ahegao
 ${numberik} ${prefix}ass
 ${numberik} ${prefix}bdsm
@@ -1489,117 +1489,7 @@ const upmenu = (prefix) => {
 │
 ├❒ ${prefix}upswteks
 ├❒ ${prefix}upswimage
-└❒ ${prefix}upswvideo
-`
-}
-const nsfw = (prefix) => {
-	return`┌❑  *NSFW & SFW* ❑
-│
-├❒ ${prefix}ahegao
-├❒ ${prefix}ass
-├❒ ${prefix}bdsm
-├❒ ${prefix}blowjob
-├❒ ${prefix}blowjob2
-├❒ ${prefix}cuckold
-├❒ ${prefix}cum
-├❒ ${prefix}ero
-├❒ ${prefix}femdom
-├❒ ${prefix}foot
-├❒ ${prefix}gangbang
-├❒ ${prefix}glasses
-├❒ ${prefix}jahy
-├❒ ${prefix}manga
-├❒ ${prefix}masturbation
-├❒ ${prefix}neko
-├❒ ${prefix}orgy
-├❒ ${prefix}panties
-├❒ ${prefix}pussy
-├❒ ${prefix}tentacles
-├❒ ${prefix}thighs
-├❒ ${prefix}yuri
-├❒ ${prefix}feet
-├❒ ${prefix}lewdkemo
-├❒ ${prefix}woof
-├❒ ${prefix}gasm
-├❒ ${prefix}solo
-├❒ ${prefix}8ball
-├❒ ${prefix}goose
-├❒ ${prefix}avatar
-├❒ ${prefix}hololewd
-├❒ ${prefix}gecg
-├❒ ${prefix}holo
-├❒ ${prefix}fox_girl
-├❒ ${prefix}tits
-├❒ ${prefix}eroyuri
-├❒ ${prefix}holoyero
-├❒ ${prefix}lizard
-├❒ ${prefix}keta
-├❒ ${prefix}eron
-├❒ ${prefix}erok
-├❒ ${prefix}kemonomimi
-├❒ ${prefix}cum_jpg
-├❒ ${prefix}nsfw_avatar
-├❒ ${prefix}erofeet
-├❒ ${prefix}meow
-├❒ ${prefix}wallpaper
-├❒ ${prefix}waifu
-├❒ ${prefix}trap
-├❒ ${prefix}lewd
-├❒ ${prefix}pussy_jpg
-├❒ ${prefix}futanari
-├❒ ${prefix}lewdk
-├❒ ${prefix}solog
-├❒ ${prefix}smug
-├❒ ${prefix}cum
-├❒ ${prefix}slap
-├❒ ${prefix}les
-├❒ ${prefix}erokemo
-├❒ ${prefix}bj
-├❒ ${prefix}pwankg
-├❒ ${prefix}pat
-├❒ ${prefix}poke
-├❒ ${prefix}feed
-├❒ ${prefix}nsfw_neko_gif
-├❒ ${prefix}pussy
-├❒ ${prefix}feetg
-├❒ ${prefix}baka
-├❒ ${prefix}hug
-├❒ ${prefix}kiss
-├❒ ${prefix}tickle
-├❒ ${prefix}spank
-├❒ ${prefix}kuni
-├❒ ${prefix}classic
-├❒ ${prefix}boobs
-├❒ ${prefix}anal
-├❒ ${prefix}ngif
-├❒ ${prefix}cuddle
-└❒ ${prefix}zettai
-`
-}
-const asupan = (prefix) => {
-	return`┌❑  *ASUPAN MENU* ❑
-│
-├❒ ${prefix}rikagusriani 
-├❒ ${prefix}ukhty 
-├❒ ${prefix}santuy 
-├❒ ${prefix}geayubi   
-├❒ ${prefix}bocil
-├❒ ${prefix}asupan
-├❒ ${prefix}chika 
-├❒ ${prefix}delvira 
-├❒ ${prefix}ayu   
-├❒ ${prefix}bunga
-├❒ ${prefix}aura
-├❒ ${prefix}nisa 
-├❒ ${prefix}ziva 
-├❒ ${prefix}yana   
-├❒ ${prefix}viona
-├❒ ${prefix}syania
-├❒ ${prefix}riri   
-├❒ ${prefix}syifa
-├❒ ${prefix}mama_gina
-├❒ ${prefix}alcakenya 
-└❒ ${prefix}mangayutri
+└❒ ${prefix}upswVideo
 `
 }
 const telestiker = (prefix) => {
@@ -1616,7 +1506,6 @@ const telestiker = (prefix) => {
 ├❒ ${prefix}jisoo
 ├❒ ${prefix}kr_robot
 ├❒ ${prefix}kucing
-├❒ ${prefix}lonte
 ├❒ ${prefix}manusia_lidi
 ├❒ ${prefix}menjamet
 ├❒ ${prefix}meow
@@ -1810,9 +1699,7 @@ const groupmenu = (prefix) => {
 ├❒ ${prefix}admin
 ├❒ ${prefix}listpc
 ├❒ ${prefix}listgroup
-├❒ ${prefix}hentai
 ├❒ ${prefix}jadian
-├❒ ${prefix}trapnime
 ├❒ ${prefix}sewa add/del waktu
 ├❒ ${prefix}listsewa
 ├❒ ${prefix}ceksewa

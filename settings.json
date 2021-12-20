@@ -1,5 +1,5 @@
 {
-    "self_mode": false,
+    "self_mode": true,
 	"autobio": false,
 	"antihidetag": true,
 	"user_register": false,
@@ -9,7 +9,7 @@
 	"auto_leave_msg": true,
 	"prefix": ".",
 	"language":"ind",
-	"ownerNumber": "62887435047326",
+	"ownerNumber": "601135268529",
 	"ownerNumberr": "62887435047326",
 	"cr": "@ZeeoneOfcོ",
 	"ownername": "ZeeoneOfcོ",
